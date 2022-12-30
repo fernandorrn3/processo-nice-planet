@@ -1,0 +1,30 @@
+.ordem{
+  background-color: darkorange;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
+
+body{
+  margin: 0;
+}
+
+
+table, th, td {
+ 
+  border-collapse: collapse;
+}
+th, td {
+  padding: 10px;
+  text-align: left;    
+}
+
+table,td,tr{
+  height: 40px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+th {
+
+  color: black;
+}

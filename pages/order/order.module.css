@@ -1,0 +1,31 @@
+
+  .testando{
+    width: 100%;
+  }
+
+  .ordem{
+  background-color: rgb(179, 177, 175);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  }
+
+  .tabelas{
+    display: flex;
+    flex-direction: row;
+   
+    overflow-x: auto;
+   margin: 5px;
+  }
+
+  .buttonContent{
+    display: flex;
+    align-items: flex-end;
+  }
+
+
+.detail{
+  background-color: #f2f2f2
+}
